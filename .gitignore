@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.venv/
+venv/
+
+# Downloaded third-party ProPy materials (kept locally, not versioned here)
+DDPM_ProPy_V1/
+Data-driven-project-management-with-Python-*/
+Data-driven-project-management-with-Python-*.tar
+Data-driven-project-management-with-Python-*.zip
+
+# Local MMLIB downloads and generated outputs
+data/raw/
+results/
